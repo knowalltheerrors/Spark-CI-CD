@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
     logger.info("Finished creating Spark Session")
     print('Hello World new')
+    print('End of the code')
