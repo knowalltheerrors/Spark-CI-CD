@@ -16,4 +16,4 @@ if __name__ == '__main__':
     logger = Log4j(spark)
 
     logger.info("Finished creating Spark Session")
-    print('Hello World')
+    print('Hello World new')
